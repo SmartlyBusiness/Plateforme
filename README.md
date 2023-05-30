@@ -6,3 +6,4 @@ Dans le cadre de lancement d’une nouvelle activité pour ses clients à l’é
 - Développement BackOffice ( Base de données Clients, Facturations, Payement  
   en ligne, Gestions,  Calculs Commissions, développement Système Marketing 
   Relationnel…) 
+Sarra a ajouté une information importante
